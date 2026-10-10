@@ -30,8 +30,8 @@ name       : Imesh Erandaka
 role       : IT Undergraduate, Horizon Campus (Sri Lanka)
 interests  : Software Engineering | Machine Learning | Cyber Security
 mindset    : build -> break -> secure -> repeat
-learning   : (edit me)
-goal       : (edit me, e.g. "AI + Security engineer")
+learning   : Cyber Security
+goal       : IT Professional
 ```
 
 ---
